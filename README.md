@@ -3,7 +3,8 @@
 代码分为三部分，
 
 ## 线下预训练代码
-在pre_train中
+在pre_train中pretrain.py
+代码说明请见注释
 
 生成的h5下载链接为:  https://pan.baidu.com/s/16Q5QcIO9IV6xwdM9XsQJwg 提取码: 2j6i 
 
@@ -15,6 +16,7 @@ model.py会预先加载我们线下使用自己收集的图片训练的，基于
 好的模型。(需要下载,见之前链接)
 
 继续放在天池环境训练，之后保存为saved_model格式,供zoo api 使用
+相关调参记录见子文件夹中README
 
 ## flink zoo相关代码
 在garbage_image文件夹中, 使用mvn clean package 打包成garbage_image-1.0-SNAPSHOT.jar包,同样已经上传到百度云中，下载地址:
