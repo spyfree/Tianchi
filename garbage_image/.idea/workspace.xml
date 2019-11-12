@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="garbage_image:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1694f965-2c9a-4ef8-9e72-c63aa65df598" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1R2QQ7rXRFUj3PDvWHhnRMcS1hY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RunMain">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="IMAGE_MODEL_PACKAGE_PATH" value="$PROJECT_DIR$/../saved_model.tar.gz" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="garbage_image" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.tianchi.garbage_image_util.RunMain" />
+      <module name="garbage_image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.tianchi.garbage_image_util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set3" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="IMAGE_MODEL_PACKAGE_PATH" value="/tmp/saved_model.tar.gz" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.garbage.example.RunMain" />
+      <module name="garbage_image" />
+      <option name="VM_PARAMETERS" value="-Xmx3096m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.tianchi.garbage_image_util.RunMain" />
+      <module name="garbage_image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.tianchi.garbage_image_util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set2" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="IMAGE_MODEL_PACKAGE_PATH" value="$PROJECT_DIR$/../saved_model.tar.gz" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.garbage.example.RunMain" />
+      <module name="garbage_image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.garbage.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="IMAGE_MODEL_PACKAGE_PATH" value="$PROJECT_DIR$/../saved_model.tar.gz" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.garbage.example.RunMain" />
+      <module name="garbage_image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.garbage.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.tianchi.garbage_image_util.RunMain" />
+      <module name="garbage_image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.tianchi.garbage_image_util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="RunMain" />
+      <module name="garbage_image" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="IMAGE_MODEL_PATH" value="$PROJECT_DIR$/../Flink_export_20190812/" />
+        <env name="IMAGE_INPUT_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+        <env name="SCORE_LOG_PATH" value="$PROJECT_DIR$/../garbage_image_set" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <module name="garbage_image" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunMain (3)" />
+      <item itemvalue="Application.RunTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RunMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunMain" />
+        <item itemvalue="Application.RunMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RunMain" />
+        <item itemvalue="Application.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1694f965-2c9a-4ef8-9e72-c63aa65df598" name="Default Changelist" comment="" />
+      <created>1568862691716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568862691716</updated>
+      <workItem from="1568862696428" duration="2631000" />
+      <workItem from="1568938691137" duration="1745000" />
+      <workItem from="1569012028771" duration="27838000" />
+      <workItem from="1569803650855" duration="13915000" />
+      <workItem from="1570352344915" duration="1758000" />
+      <workItem from="1570362561722" duration="9729000" />
+      <workItem from="1570437823059" duration="3753000" />
+      <workItem from="1570533181781" duration="6405000" />
+      <workItem from="1570630344113" duration="42268000" />
+      <workItem from="1571721998990" duration="1692000" />
+      <workItem from="1571812991316" duration="3042000" />
+      <workItem from="1571900027795" duration="818000" />
+      <workItem from="1571927651378" duration="618000" />
+      <workItem from="1571981317925" duration="4513000" />
+      <workItem from="1572055937220" duration="5558000" />
+      <workItem from="1572344192661" duration="3734000" />
+      <workItem from="1572416960618" duration="1704000" />
+      <workItem from="1572423620411" duration="969000" />
+      <workItem from="1572964977965" duration="703000" />
+      <workItem from="1573031435935" duration="1130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
